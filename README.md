@@ -10,7 +10,7 @@ Further, there are too many stories to cover in-depth, but here are some other r
 
 - Jul 19, 2020: ["APD officer retires as authorities investigate potential time card fraud"](https://www.krqe.com/news/albuquerque-metro/apd-officer-retires-as-authorities-investigate-potential-time-card-fraud/)
 
-- Jul 16, 2020: ["Auditor seeks probe of Albuquerque police overtime ‘abuse’"](https://apnews.com/article/57332d86f5826653dbb14c7b9e143a5d)
+- Jul 16, 2020: ["Auditor seeks probe of Albuquerque police overtime 'abuse'"](https://apnews.com/article/57332d86f5826653dbb14c7b9e143a5d)
 
 - Oct 11, 2020: ["Deputy chiefs say \[Fired Police Chief\] Geier left them – and the department – hanging"](https://www.abqjournal.com/1505848/deputy-chiefs-say-geier-left-them-ndash-and-the-department-ndash-hanging.html)
 
