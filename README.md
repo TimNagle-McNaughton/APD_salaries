@@ -22,7 +22,7 @@ There are too many stories to cover in-depth, but here are some recent low-light
 
 In the last fiscal year, Albuquerque spent [19% of its annual budget on Policing](http://documents.cabq.gov/budget/fy-20-approved-budget.pdf) (PDF), most of the top paid employees are  police officers:
 
-![How much is too much?]https://raw.githubusercontent.com/TimNagle-McNaughton/APD_salaries/main/barplot.png?token=AMM2E6SKE3A65UDSOP4SU33AP4KB6
+![How much is too much?](https://raw.githubusercontent.com/TimNagle-McNaughton/APD_salaries/main/barplot.png?token=AMM2E6SKE3A65UDSOP4SU33AP4KB6)
 
 For all that money, Albuquerque is still rated as one of the least safe metro areas in the country by property and violent crime, [a worrying trend already this year](https://www.abqjournal.com/2380171/year-to-date-homicides-up-significantly.html).
 
