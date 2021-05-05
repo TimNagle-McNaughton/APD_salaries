@@ -18,7 +18,7 @@ Further, there are too many stories to cover in-depth, but here are some other r
 
 - Nov 20, 2020: ["Audit finds officers claimed overtime they never worked"](https://www.koat.com/article/audit-finds-officers-claimed-overtime-they-never-worked/34741386)
 
-- May 4, 2021: ["A high-ranking Albuquerque Police Officer’s misconduct (fraud) covered-up [by Internal Affairs\]"](https://www.krqe.com/news/larry-barker/a-high-ranking-albuquerque-police-officers-misconduct-covered-up/)
+- May 4, 2021: ["A high-ranking Albuquerque Police Officer’s misconduct (read: fraud) covered-up (by Internal Affairs)"](https://www.krqe.com/news/larry-barker/a-high-ranking-albuquerque-police-officers-misconduct-covered-up/)
 
 ----
 
