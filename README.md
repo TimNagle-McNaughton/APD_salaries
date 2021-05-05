@@ -18,6 +18,8 @@ Further, there are too many stories to cover in-depth, but here are some other r
 
 - Nov 20, 2020: ["Audit finds officers claimed overtime they never worked"](https://www.koat.com/article/audit-finds-officers-claimed-overtime-they-never-worked/34741386)
 
+- May 4, 2021: ["A high-ranking Albuquerque Police Officer’s misconduct (fraud) covered-up [by Internal Affairs\]"](https://www.krqe.com/news/larry-barker/a-high-ranking-albuquerque-police-officers-misconduct-covered-up/)
+
 ----
 
 In the last fiscal year, Albuquerque spent [19% of its annual budget on Policing](http://documents.cabq.gov/budget/fy-20-approved-budget.pdf) (PDF), most of the top paid employees are  police officers ([source](https://publicreports.cabq.gov/ibmcognos/bi/?perspective=classicviewer&pathRef=.public_folders%2FTransparency%2FTop%20Earners%20of%20the%20City%20of%20Albuquerque%20List&id=i5AAD1EA752BA417099BA819E482F6642&objRef=i5AAD1EA752BA417099BA819E482F6642&action=run&format=HTML&cmPropStr=%7B%22id%22%3A%22i5AAD1EA752BA417099BA819E482F6642%22%2C%22type%22%3A%22report%22%2C%22defaultName%22%3A%22Top%20Earners%20of%20the%20City%20of%20Albuquerque%20List%22%2C%22permissions%22%3A%5B%22execute%22%2C%22traverse%22%5D%7D)):
