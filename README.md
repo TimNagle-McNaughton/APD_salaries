@@ -26,9 +26,9 @@ Further, there are too many stories to cover in-depth, but here are some other r
 
 - July 9, 2021: ["Former APD detectives claim they were pushed out after raising concerns with sex crimes unit"](https://www.kob.com/new-mexico-news/former-apd-detectives-claim-they-were-pushed-out-after-raising-concerns-with-sex-crimes-unit/6166523/)
 
-- August 15, 2021 ["Seventh audit cites APD overtime problems"](https://www.abqjournal.com/2419877/seventh-audit-cites-apd-overtime-problems.html)
+- August 15, 2021: ["Seventh audit cites APD overtime problems"](https://www.abqjournal.com/2419877/seventh-audit-cites-apd-overtime-problems.html)
 
-- September 12, 2021 ["APD officers leaving force cite DOJ settlement"](https://www.abqjournal.com/2428379/exiting-officers-cite-doj-settlement.html)
+- September 12, 2021: ["APD officers leaving force cite DOJ settlement"](https://www.abqjournal.com/2428379/exiting-officers-cite-doj-settlement.html)
 
 ----
 
