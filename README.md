@@ -30,6 +30,8 @@ Further, there are too many stories to cover in-depth, but here are some other r
 
 - September 12, 2021: ["APD officers leaving force cite DOJ settlement"](https://www.abqjournal.com/2428379/exiting-officers-cite-doj-settlement.html)
 
+- September 13, 2021: ["President of the Albuquerque Police Officers Association calls DOJ consent decree 'A joke'"](https://www.kob.com/albuquerque-news/doj-releases-new-rules-for-cities-under-consent-decree/6237220/)
+
 ----
 
 In the last fiscal year, Albuquerque spent [19% of its annual budget on Policing](http://documents.cabq.gov/budget/fy-20-approved-budget.pdf) (PDF), most of the top paid employees are  police officers ([source](https://publicreports.cabq.gov/ibmcognos/bi/?perspective=classicviewer&pathRef=.public_folders%2FTransparency%2FTop%20Earners%20of%20the%20City%20of%20Albuquerque%20List&id=i5AAD1EA752BA417099BA819E482F6642&objRef=i5AAD1EA752BA417099BA819E482F6642&action=run&format=HTML&cmPropStr=%7B%22id%22%3A%22i5AAD1EA752BA417099BA819E482F6642%22%2C%22type%22%3A%22report%22%2C%22defaultName%22%3A%22Top%20Earners%20of%20the%20City%20of%20Albuquerque%20List%22%2C%22permissions%22%3A%5B%22execute%22%2C%22traverse%22%5D%7D)):
