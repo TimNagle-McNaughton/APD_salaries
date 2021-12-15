@@ -1,6 +1,6 @@
 Albuquerque is a wonderful place to live.
 
-However, the police department is ineffective, and in mismanaged. 
+However, the police department is ineffective and mismanaged. 
 
 ----
 
