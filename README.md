@@ -4,7 +4,13 @@ However, the police department is ineffective and mismanaged.
 
 ----
 
-In 2014 the City of Albuquerque Police Department (APD) was sued by the Department of Justice (DOJ) after 20-people were killed by city police officers over a four-year period ending in 2012, including the infamous [James Boyd shooting](https://www.npr.org/sections/thetwo-way/2016/10/12/497660078/albuquerque-police-shooting-trial-ends-in-a-hung-jury). Now in its 7th year of DOJ supervision, [the second latest independent report](https://www.justice.gov/usao-nm/page/file/1334286/download) (PDF) found that the **"APD failed miserably in its ability to police itself."** so that's not encouraging. The [most recent report](https://www.justice.gov/usao-nm/file/1404816/download) is more promising, but similar problems abound: **"At this point, the disciplinary system at APD routinely fails to follow its own written policy (guiding disciplinary matrices) and virtually decimates its disciplinary requirements in favor of refusals to recognize substantial policy violations, and instead, often sustaining minor related violations and ignoring more serious violations"**.
+In 2014 the City of Albuquerque Police Department (APD) was sued by the Department of Justice (DOJ) after 20-people were killed by city police officers over a four-year period ending in 2012, including the infamous [James Boyd shooting](https://www.npr.org/sections/thetwo-way/2016/10/12/497660078/albuquerque-police-shooting-trial-ends-in-a-hung-jury). Now in its 7th year of DOJ supervision, [the second latest independent report](https://www.justice.gov/usao-nm/page/file/1334286/download) (PDF) found that the:
+
+> **"APD failed miserably in its ability to police itself."** so that's not encouraging. 
+ 
+The [most recent report](https://www.justice.gov/usao-nm/file/1404816/download) is more promising, but similar problems abound: 
+
+> **"At this point, the disciplinary system at APD routinely fails to follow its own written policy (guiding disciplinary matrices) and virtually decimates its disciplinary requirements in favor of refusals to recognize substantial policy violations, and instead, often sustaining minor related violations and ignoring more serious violations"**.
 
 There are too many stories to cover in-depth, but here are some other recent low-lights:
 
