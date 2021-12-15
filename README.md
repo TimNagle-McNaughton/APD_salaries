@@ -44,11 +44,11 @@ Further, there are too many stories to cover in-depth, but here are some other r
 
 ----
 
-In the last fiscal year, Albuquerque spent [19% of its annual budget on Policing](http://documents.cabq.gov/budget/fy-20-approved-budget.pdf) (PDF), most of the top paid employees are  police officers ([source](https://publicreports.cabq.gov/ibmcognos/bi/?perspective=classicviewer&pathRef=.public_folders%2FTransparency%2FTop%20Earners%20of%20the%20City%20of%20Albuquerque%20List&id=i5AAD1EA752BA417099BA819E482F6642&objRef=i5AAD1EA752BA417099BA819E482F6642&action=run&format=HTML&cmPropStr=%7B%22id%22%3A%22i5AAD1EA752BA417099BA819E482F6642%22%2C%22type%22%3A%22report%22%2C%22defaultName%22%3A%22Top%20Earners%20of%20the%20City%20of%20Albuquerque%20List%22%2C%22permissions%22%3A%5B%22execute%22%2C%22traverse%22%5D%7D)):
+In the 2020 fiscal year, Albuquerque spent [19% of its annual budget on Policing](http://documents.cabq.gov/budget/fy-20-approved-budget.pdf) (PDF), most of the top paid employees are  police officers ([source](https://publicreports.cabq.gov/ibmcognos/bi/?perspective=classicviewer&pathRef=.public_folders%2FTransparency%2FTop%20Earners%20of%20the%20City%20of%20Albuquerque%20List&id=i5AAD1EA752BA417099BA819E482F6642&objRef=i5AAD1EA752BA417099BA819E482F6642&action=run&format=HTML&cmPropStr=%7B%22id%22%3A%22i5AAD1EA752BA417099BA819E482F6642%22%2C%22type%22%3A%22report%22%2C%22defaultName%22%3A%22Top%20Earners%20of%20the%20City%20of%20Albuquerque%20List%22%2C%22permissions%22%3A%5B%22execute%22%2C%22traverse%22%5D%7D)):
 
 ![How much is too much?](https://raw.githubusercontent.com/TimNagle-McNaughton/APD_salaries/main/barplot.png)
 
-For all that money, Albuquerque is still rated as one of the least safe metro areas in the country by property and violent crime, [a worrying trend already this year](https://www.abqjournal.com/2380171/year-to-date-homicides-up-significantly.html).
+For all that money, Albuquerque is still rated as one of the least safe metro areas in the country by property and violent crime, [a worrying trend this year](https://www.abqjournal.com/2380171/year-to-date-homicides-up-significantly.html), tying [the record for homicides by August](https://www.abqjournal.com/2417797/city-breaks-yearly-homicide-record.html), with [an additional 21 homicides by mid-November](https://www.koat.com/article/albuquerque-police-102-homicide-coors-dions/38286002).
 
 ----
 
