@@ -1,6 +1,4 @@
-Albuquerque is a wonderful place to live.
-
-However, the police department is ineffective and mismanaged. 
+Albuquerque is a wonderful place to live. However, the police department is ineffective and mismanaged. 
 
 ----
 
@@ -11,6 +9,8 @@ In 2014 the City of Albuquerque Police Department (APD) was sued by the Departme
 so that's not encouraging. The [most recent report](https://www.justice.gov/usao-nm/file/1404816/download) is more promising, but similar problems abound: 
 
 > *"At this point, the disciplinary system at APD routinely fails to follow its own written policy (guiding disciplinary matrices) and virtually decimates its disciplinary requirements in favor of refusals to recognize substantial policy violations, and instead, often sustaining minor related violations and ignoring more serious violations"*.
+
+----
 
 There are too many stories to cover in-depth, but here are some other recent low-lights:
 
