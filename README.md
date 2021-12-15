@@ -38,6 +38,8 @@ There are too many stories to cover in-depth, but here are some other recent low
 
 - September 13, 2021: ["President of the Albuquerque Police Officers Association calls DOJ consent decree 'A joke'"](https://www.kob.com/albuquerque-news/doj-releases-new-rules-for-cities-under-consent-decree/6237220/)
 
+- September 19, 2021: ["Footage shows more to the story of officer, burrito"](https://www.abqjournal.com/2430850/footage-shows-more-to-the-story-of-officer-burrito.html) (Not satire)
+
 - November 16, 2021: ["Monitor slams APD’s backlog of force probes"](https://www.abqjournal.com/2446751/monitor-blasts-apds-worsening-use-of-force-backlog.html)
 
 - November 16, 2021: ["Outside investigators initiating changes at APD"](https://www.abqjournal.com/2446756/outside-investigators-initiating-changes-at-apd.html)
