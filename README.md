@@ -50,6 +50,8 @@ There are too many stories to cover in-depth, but here are some other recent low
 
 - December 15, 2021: ["APD finds officer violated use-of-force policies in March shooting"](https://www.abqjournal.com/2454378/apd-found-officer-violated-policies-in-march-shooting.html) (Officer resigned, may face prosecution)
 
+- February 4, 2022 ["Ex-APD academy commander files whistleblower lawsuit"](https://www.abqjournal.com/2467250/former-apd-academy-commander-files-whistleblower-lawsuit-ex-complain.html) 
+
 ----
 
 In the 2020 fiscal year, Albuquerque spent [19% of its annual budget on Policing](http://documents.cabq.gov/budget/fy-20-approved-budget.pdf) (PDF), most of the top paid employees are  police officers ([source](https://publicreports.cabq.gov/ibmcognos/bi/?perspective=classicviewer&pathRef=.public_folders%2FTransparency%2FTop%20Earners%20of%20the%20City%20of%20Albuquerque%20List&id=i5AAD1EA752BA417099BA819E482F6642&objRef=i5AAD1EA752BA417099BA819E482F6642&action=run&format=HTML&cmPropStr=%7B%22id%22%3A%22i5AAD1EA752BA417099BA819E482F6642%22%2C%22type%22%3A%22report%22%2C%22defaultName%22%3A%22Top%20Earners%20of%20the%20City%20of%20Albuquerque%20List%22%2C%22permissions%22%3A%5B%22execute%22%2C%22traverse%22%5D%7D)):
