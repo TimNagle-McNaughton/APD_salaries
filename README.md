@@ -50,9 +50,9 @@ There are too many stories to cover in-depth, but here are some other recent low
 
 - December 15, 2021: ["APD finds officer violated use-of-force policies in March shooting"](https://www.abqjournal.com/2454378/apd-found-officer-violated-policies-in-march-shooting.html) (Officer resigned, may face prosecution)
 
-- February 4, 2022 ["Ex-APD academy commander files whistleblower lawsuit"](https://www.abqjournal.com/2467250/former-apd-academy-commander-files-whistleblower-lawsuit-ex-complain.html) 
+- February 4, 2022: ["Ex-APD academy commander files whistleblower lawsuit"](https://www.abqjournal.com/2467250/former-apd-academy-commander-files-whistleblower-lawsuit-ex-complain.html) 
 
-- March 30, 2022 ["More APD overtime issues irk councilors"](https://www.abqjournal.com/2484244/more-overtime-misconduct-at-apd-leaves-2-councilors-stewing.html)
+- March 30, 2022: ["More APD overtime issues irk councilors"](https://www.abqjournal.com/2484244/more-overtime-misconduct-at-apd-leaves-2-councilors-stewing.html)
 
 ----
 
